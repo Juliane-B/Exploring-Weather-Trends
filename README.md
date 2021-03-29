@@ -1,19 +1,18 @@
 ### Exploring-Weather-Trends
 
-- Exploring Weather Trends using SQL and Excel
-- This project is part of Udacity Data Analyst Nanodegree program.
+Exploring Weather Trends using SQL and Excel. This project is part of Udacity Data Analyst Nanodegree program.
 
 ## Summary
-- Analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
+Analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
 ## Instructions
-- To create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live.
+To create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live.
 
-- * Extract the data from the database using SQL
-- * Open up the CSV in Excel
-- * Create a line chart that compares your city’s temperatures with the global temperatures
-- * Plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable
-- * Make observations about the similarities and differences between the world averages and your city’s averages, as well as overall trends
+- Extract the data from the database using SQL
+- Open up the CSV in Excel
+- Create a line chart that compares your city’s temperatures with the global temperatures
+- Plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable
+- Make observations about the similarities and differences between the world averages and your city’s averages, as well as overall trends
 
 Database Schema
 There are three tables used:
